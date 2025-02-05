@@ -5,7 +5,7 @@
 
 # Video Merger
 
-This repository contains the final project of my assembly course at university. The project, called Video Merger, is implemented using C, Assembly, Makefile, and CMake.
+This repository contains the final project of my assembly course at university. The project, called Video Merger, is implemented using C, Assembly, Makefile, and CMake. It is designed to merge two video files on Linux systems.
 
 ## 🛠️ Technologies Used
 
@@ -16,17 +16,18 @@ This repository contains the final project of my assembly course at university. 
 
 ## 📚 Project Description
 
-The Video Merger project is designed to merge multiple video files into a single output file. This project demonstrates the use of low-level programming with C and Assembly, as well as build automation using Makefile and CMake.
+The Video Merger project is designed to merge two video files into a single output file. This project demonstrates the use of low-level programming with C and Assembly, as well as build automation using Makefile and CMake. Currently, it only supports Linux operating systems.
 
 ## 🎯 Objective
 
-The main objective of this project is to merge multiple video files efficiently and demonstrate the application of assembly language in a practical project.
+The main objective of this project is to merge two video files efficiently and demonstrate the application of assembly language in a practical project.
 
 ## 🚀 Features
 
-- **Efficient Video Merging**: Merge multiple video files into a single output file.
+- **Efficient Video Merging**: Merge two video files into a single output file.
 - **Low-Level Programming**: Utilize both C and Assembly for performance optimization.
 - **Build Automation**: Use Makefile and CMake for easy project compilation and management.
+- **Linux Support**: Specifically designed to work on Linux operating systems.
 
 ## 🏗️ Project Structure
 
@@ -78,7 +79,7 @@ video_merger/
 
 1. **Execute the Binary**
    ```bash
-   ./video_merger <input_video1> <input_video2> ... <output_video>
+   ./video_merger <input_video1> <input_video2> <output_video>
    ```
 
 ## 📊 Performance
