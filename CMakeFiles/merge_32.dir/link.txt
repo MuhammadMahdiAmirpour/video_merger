@@ -1,0 +1,1 @@
+/usr/bin/cc -m32 CMakeFiles/merge_32.dir/main.c.o CMakeFiles/merge_32.dir/merge_opt.c.o CMakeFiles/merge_32.dir/merge.c.o CMakeFiles/merge_32.dir/merge_asm_32.asm.o CMakeFiles/merge_32.dir/merge_simd_32.asm.o -o merge_32 

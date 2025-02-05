@@ -1,0 +1,3 @@
+/home/sysiphux/workspace/university/asm/video_merger/CMakeFiles/merge_64.dir
+/home/sysiphux/workspace/university/asm/video_merger/CMakeFiles/edit_cache.dir
+/home/sysiphux/workspace/university/asm/video_merger/CMakeFiles/rebuild_cache.dir
