@@ -54,7 +54,7 @@ video_merger/
 - **NASM Assembler**: Install NASM for assembly code compilation.
 - **CMake**: Ensure CMake is installed for building the project.
 
-### Building the Project
+### Building and Running the Project
 
 1. **Clone the Repository**
    ```bash
@@ -62,12 +62,7 @@ video_merger/
    cd video_merger
    ```
 
-2. **Using Makefile**
-   ```bash
-   make
-   ```
-
-3. **Using CMake**
+2. **Using CMake**
    ```bash
    mkdir build
    cd build
@@ -75,11 +70,9 @@ video_merger/
    make
    ```
 
-### Running the Program
-
-1. **Execute the Binary**
+3. **Run the Video Merger**
    ```bash
-   ./video_merger <input_video1> <input_video2> <output_video>
+   ./merge_32 <input_video1> <input_video2> <output_video>
    ```
 
 ## 📊 Performance
