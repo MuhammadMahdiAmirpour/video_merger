@@ -9,10 +9,10 @@ This repository contains the final project of my assembly course at university. 
 
 ## 🛠️ Technologies Used
 
-- **C** (40.6%)
-- **Assembly** (27.5%)
-- **Makefile** (24%)
-- **CMake** (7.9%)
+- **C**
+- **Assembly**
+- **Makefile**
+- **CMake**
 
 ## 📚 Project Description
 
